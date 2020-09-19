@@ -1,7 +1,7 @@
 # Python-Courses
 All of my exercises and homeworks from the Python Courses at SoftUni.
 
-### Python-Fundamentals-June-2019
+### :clipboard: Python-Fundamentals-June-2019
 01. Python Intro
 02. Functions and Debugging
 03. Lists
@@ -12,7 +12,7 @@ All of my exercises and homeworks from the Python Courses at SoftUni.
 08. Basics OOP Principles
 09. Exam Preparation
 
-### Programming-Basics-with-Python-April-2019
+### :clipboard: Programming-Basics-with-Python-April-2019
 01. First Steps In Coding
 02. Simple Operations and Calculations - Lab
 03. Simple Operations and Calculations - Exercise
