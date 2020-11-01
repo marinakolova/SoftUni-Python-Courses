@@ -1,7 +1,7 @@
 # Python-Courses
 All of my exercises and homeworks from Python courses at SoftUni.
 
-## Python-Fundamentals-June-2019 - [Certificated](https://softuni.bg/certificates/details/70276/4768e775) :heavy_check_mark:
+## :white_check_mark: Python-Fundamentals-June-2019 - [Certificated](https://softuni.bg/certificates/details/70276/4768e775) :heavy_check_mark:
 01. Python Intro
 02. Functions and Debugging
 03. Lists
@@ -12,7 +12,7 @@ All of my exercises and homeworks from Python courses at SoftUni.
 08. Basics OOP Principles
 09. Exam Preparation
 
-## Programming-Basics-with-Python-April-2019 - [Certificated](https://softuni.bg/certificates/details/67515/f9226f25) :heavy_check_mark:
+## :white_check_mark: Programming-Basics-with-Python-April-2019 - [Certificated](https://softuni.bg/certificates/details/67515/f9226f25) :heavy_check_mark:
 01. First Steps In Coding
 02. Simple Operations and Calculations - Lab
 03. Simple Operations and Calculations - Exercise
