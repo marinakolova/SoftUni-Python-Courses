@@ -1,5 +1,5 @@
-# Python-Courses
-All of my exercises and homeworks from Python courses at SoftUni.
+# SoftUni-Python-Courses
+This repo contains all of my exercises and homeworks from Python courses at SoftUni.
 
 ## :white_check_mark: Python-Fundamentals-June-2019 - [Certificated](https://softuni.bg/certificates/details/70276/4768e775) :heavy_check_mark:
 01. Python Intro
